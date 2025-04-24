@@ -21,9 +21,9 @@ __pycache__/
 # macOS/IDE #
 .DS_Store
 
-
-###############
+# ci-full-template
 core.Microsoft*
 core.mongo*
 core.python*
 .github/
+cloudinary_python.txt
